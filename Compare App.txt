@@ -1,0 +1,14 @@
+https://723b8d87-dcd0-4838-a931-5641717a52d8.mock.pstmn.io/history
+
+
+[{"id": 1, "student1Name": "Peter", "student2Name": "Paul", "percentageSimilarity": 0.1, "similarText": ""}, {"id": 2, "student1Name": "James", "student2Name": "John", "percentageSimilarity": 90, "similarText": "Lorem ipsum ellum"}]
+
+Create Mockup with Figma
+
+Create PowerPoint Presentation
+
+Figma
+
+https://www.figma.com/proto/MnjhGsMq9Xq4YN3ugSmX28/Compare?node-id=5%3A142&scaling=min-zoom
+
+https://www.figma.com/file/MnjhGsMq9Xq4YN3ugSmX28/Compare?node-id=0%3A1
